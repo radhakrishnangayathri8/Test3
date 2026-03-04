@@ -4,7 +4,7 @@ public with sharing class sample1 {
         system.debug('hello there');
         system.debug('updated Inside feature branch');
         system.debug('hellllllllllllllllllooooooooooooooooo');
-        system.debug('Main');
+        system.debug('from Main');
     }
     
 }
